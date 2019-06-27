@@ -10,4 +10,4 @@ Sample website with plenty of files for demos
 Please update add some more text here...and there
 
 ## Section
-Added new section, adding new text to newfeature branch
+Added new section, adding new text to newfeature branch 2014 Git Training. All right reserve.
